@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yosefth Guaca Alvarez</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
 
 - 🔭 I’m currently working on: **My projects**
 
