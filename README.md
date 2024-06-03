@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on: **My projects And More Launguage Learning And Mastery**
+- 🔭 I’m currently working on: **My projects And go into learning more coding Languages And Mastery The Languages I Alredy Know**
 
 - 🌱 I’m currently learning: **Java**
 
