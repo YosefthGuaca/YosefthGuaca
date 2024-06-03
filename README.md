@@ -15,7 +15,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
-  <a href="nodemon.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/58b6f8d2598d078fbf9483b8c0f8ca11f942472769772c5001c3e632814affb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144" alt="nodemon" width="100" height="40"/>
+  <a href="https://nodemon.io" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/58b6f8d2598d078fbf9483b8c0f8ca11f942472769772c5001c3e632814affb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e4f44454d4f4e2d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d25424244454144" alt="nodemon" width="100" height="40"/>
+</a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/beba8939d1efe3da1441f817678f640d1ba1d88ab151011523b3f17573957010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d706c6173746963266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="tailwind" width="100" height="40"/>
 </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
