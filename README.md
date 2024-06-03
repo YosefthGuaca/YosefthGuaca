@@ -1,12 +1,12 @@
 <a target="_blank" align="center">
-  <img align="right" top="800" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <h1 align="center">Hi 👋, I'm Yosefth Guaca Alvarez</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 
 
-- 🔭 I’m currently working on: **My projects**
+- 🔭 I’m currently working on: **My projects And More Launguage Learning And Mastery**
 
 - 🌱 I’m currently learning: **Java**
 
